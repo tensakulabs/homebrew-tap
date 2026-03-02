@@ -13,11 +13,18 @@ brew tap tensakulabs/tap
 | Formula | Description |
 |---------|-------------|
 | `tcr` | Token Context Reducer — minimize LLM token consumption in CLI workflows |
+| `claude-code-swap` | Switch Claude Code provider profiles with one command |
 
 ### Install tcr
 
 ```bash
 brew install tensakulabs/tap/tcr
+```
+
+### Install claude-code-swap
+
+```bash
+brew install tensakulabs/tap/claude-code-swap
 ```
 
 ## Links
